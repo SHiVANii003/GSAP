@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+#page1 {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+#page2 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(91, 156, 217);
+}
+#page2 h1 {
+    font-size: 40vw;
+    text-align: center;
+    text-transform: uppercase;
+}
+#page3 {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
